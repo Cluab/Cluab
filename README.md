@@ -47,21 +47,20 @@
   <summary>🧮 about</summary>
 <div>
 <samp>
-<h2 align="center">About this Account</h2>
+<h2 align="center">Welcome To My Profile</h2>
  <p align="center">
-  <a href="github.com/CLUAB" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=CLUAB&style=for-the-badge&label=PROFILE+VIEWS" height="25"
-     alt="views count" /></a>
-  <a href="https://cluab.github.io/CLUAB/"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://cluab.github.io/CLUAB/" height="25"
-     alt="website" /></a>
+💻💻 Hello there! I'm a Certified Life Coach and a Full-Stack Software Engineer with over one year of experience in web development. As a Full-Stack Developer, I have extensive expertise in various programming languages such as Ruby, JavaScript, as well as multiple web development frameworks including Ruby on Rails and React.js.
+
+Before transitioning into a career in software engineering, I worked as a life coach for nearly a year, teaching students between the ages of 10-14 from diverse cultural backgrounds. This experience helped me develop excellent communication skills and thrive under pressure.
+
+Over the past year, I have developed cutting-edge applications, including landing pages, conference pages, SPAs, and Rails APIs. I have also managed projects using technologies such as Scrum, working collaboratively with colleagues to deliver high-quality work within tight deadlines. Additionally, I have a knack for learning new programming languages quickly, allowing me to continually expand my skill set.
+
+I'm excited to bring my unique blend of life coaching and software engineering expertise to new projects and organizations, so feel free to reach out if you're interested in working together!
+
+---
   </p>
 
- <p align="center">
-  <a href="github.com/CLUAB"><img align="center"
-     src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
-     alt="work on my machine" /></a>
- </p>
+
  </samp>
 </div>
 </details>
@@ -100,20 +99,3 @@
      </samp>
   </div>    
 </details>
-
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/cluab/github-readme-activity-graph">
-  <img alt="Ibrahim's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=cluab&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br/>
-  </samp>
-  </details>
-  
-<details>
- 
------
-Credits: [1999AZZAR](https://github.com/1999AZZAR)
-Last Edited on: 23/09/2022
