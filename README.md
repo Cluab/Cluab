@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Ebrahim</h1>
-<h4 align="center">A Programer enthusiast who's on the road to graduating from Microverse as a full-Stack Developer</h4>
+<h4 align="center">Certified life coach and full-stack developer dedicated to making a positive impact.</h4>
 </div>
 
 <div align="center">
