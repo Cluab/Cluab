@@ -10,7 +10,6 @@
 </div>
 
 -----
-<details>
   <summary>☎️ contact me</summary>
 <div>
   <samp>
@@ -35,9 +34,7 @@
     </p>
   </samp>
 </div>
-</details>
 
-<details>
   <summary>🧮 about</summary>
 <div>
 <samp>
@@ -57,9 +54,7 @@ I'm excited to bring my unique blend of life coaching and software engineering e
 
  </samp>
 </div>
-</details>
   
-<details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
   <samp>
@@ -82,7 +77,7 @@ I'm excited to bring my unique blend of life coaching and software engineering e
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Statistics</h3></summary>
         <p align="center">
           <a href="https://github.com/CLUAB/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=CLUAB&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -92,4 +87,3 @@ I'm excited to bring my unique blend of life coaching and software engineering e
      <br>
      </samp>
   </div>    
-</details>
