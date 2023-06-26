@@ -40,13 +40,15 @@
 <samp>
 <h2 align="center">Welcome To My Profile</h2>
  <p align="center">
-💻💻 Hello there! I'm a Certified Life Coach and a Full-Stack Software Engineer with over one year of experience in web development. As a Full-Stack Developer, I have extensive expertise in various programming languages such as Ruby, JavaScript, as well as multiple web development frameworks including Ruby on Rails and React.js.
+Imagine a full-stack developer with the interpersonal skills of an experienced life coach. That's exactly what I bring to the table. Hi, I'm Ebrahim Suhail Al-Yousefy, an ex-life coach and a passionate full-stack developer specializing in React, Redux, Next.js, and Ruby on Rails.
 
-Before transitioning into a career in software engineering, I worked as a life coach for nearly a year, teaching students between the ages of 10-14 from diverse cultural backgrounds. This experience helped me develop excellent communication skills and thrive under pressure.
+With a solid foundation in both life coaching and software development, I offer a unique combination of technical expertise and a focus on enhancing the human aspect of software development. Recently, I completed the Microverse Full-Stack Web Development Program, dedicating over 1500 hours to mastering algorithms, data structures, and full-stack development.
 
-Over the past year, I have developed cutting-edge applications, including landing pages, conference pages, SPAs, and Rails APIs. I have also managed projects using technologies such as Scrum, working collaboratively with colleagues to deliver high-quality work within tight deadlines. Additionally, I have a knack for learning new programming languages quickly, allowing me to continually expand my skill set.
+What sets me apart is my unwavering commitment to fostering teamwork, boosting productivity, and prioritizing the overall experience of software development. Drawing from my experience as a life coach and ambassador for the Meshwary program, supported by the UN and the Ministry of Youth, I've honed my understanding of human psychology and empowered individuals to overcome lifelong struggles with depression.
 
-I'm excited to bring my unique blend of life coaching and software engineering expertise to new projects and organizations, so feel free to reach out if you're interested in working together!
+I create solutions that meet technical requirements while prioritizing user experience and overall well-being. My technical repertoire includes JavaScript, HTML5, CSS3 for front-end development, Ruby and PostgreSQL for back-end development, and frameworks/libraries such as React, Redux, Next.js, and Rails. I utilize tools like Git, GitHub, and Test-Driven Development (TDD) to ensure seamless collaboration and code quality.
+
+I possess a deep-seated eagerness to embrace new opportunities and am confident in my ability to learn and grow. Let's connect and positively impact the world through web development. Feel free to contact me via email at cluab11222@gmail.com or explore my portfolio at codeesy.onrender.com.
 
 ---
   </p>
