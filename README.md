@@ -19,7 +19,7 @@
       <a href="https://www.linkedin.com/in/ebrahim-al-yousefi-207808237/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="ibrhaim" height="30"/></a>
-      <a href="mailto:cluab11222@gmail.com" target="blank"><img align="center"
+      <a href="mailto:ebra.alyousefi@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="ibrahim" height="30"/></a>
     </p>
