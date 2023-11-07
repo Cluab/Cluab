@@ -48,7 +48,7 @@ What sets me apart is my unwavering commitment to fostering teamwork, boosting p
 
 I create solutions that meet technical requirements while prioritizing user experience and overall well-being. My technical repertoire includes JavaScript, HTML5, CSS3 for front-end development, Ruby and PostgreSQL for back-end development, and frameworks/libraries such as React, Redux, Next.js, and Rails. I utilize tools like Git, GitHub, and Test-Driven Development (TDD) to ensure seamless collaboration and code quality.
 
-I possess a deep-seated eagerness to embrace new opportunities and am confident in my ability to learn and grow. Let's connect and positively impact the world through web development. Feel free to contact me via email at cluab11222@gmail.com or explore my portfolio at codeesy.onrender.com.
+I possess a deep-seated eagerness to embrace new opportunities and am confident in my ability to learn and grow. Let's connect and positively impact the world through web development. Feel free to contact me via email at ebra.alyousefi@gmail.com or explore my portfolio at codeesy.onrender.com.
 
 ---
   </p>
