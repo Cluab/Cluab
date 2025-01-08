@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, I'm Ebrahim</h1>
-<h4 align="center">A passionate full-stack developer and ex. Life Coach dedicated to making a positive impact.</h4>
+<h4 align="center">A passionate programmer dedicated to making a positive impact.</h4>
 </div>
 
 -----
