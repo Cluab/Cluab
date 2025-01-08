@@ -31,17 +31,17 @@
 <samp>
 <h2 align="center">Welcome To My Profile</h2>
  <p align="center">
-Imagine a full-stack developer with the interpersonal skills of an experienced life coach. That's exactly what I bring to the table. Hi, I'm Ebrahim Suhail Al-Yousefy, an ex-life coach and a passionate full-stack developer specializing in React, Redux, Next.js, and Ruby on Rails.
+Imagine a full-stack developer with a passion for AI and the interpersonal skills of an experienced life coach.
+Hi, I'm Ebrahim Suhail Al-Yousefy, an ex-life coach and aspiring AI/ML engineer with a solid foundation in full-stack development. I’m currently expanding my expertise into AI by working on projects like neural network training and character-level language models, while continuing to refine my technical skills.
 
-With a solid foundation in both life coaching and software development, I offer a unique combination of technical expertise and a focus on enhancing the human aspect of software development. Recently, I completed the Microverse Full-Stack Web Development Program, dedicating over 1500 hours to mastering algorithms, data structures, and full-stack development.
+With experience in front-end technologies like React, Next.js, and Redux, and back-end frameworks like Ruby on Rails and Node.js, I create solutions that prioritize technical excellence and user experience. Recently, I completed the Microverse Full-Stack Web Development Program, dedicating over 1500 hours to mastering algorithms, data structures, and full-stack development.
 
-What sets me apart is my unwavering commitment to fostering teamwork, boosting productivity, and prioritizing the overall experience of software development. Drawing from my experience as a life coach and ambassador for the Meshwary program, supported by the UN and the Ministry of Youth, I've honed my understanding of human psychology and empowered individuals to overcome lifelong struggles with depression.
+What sets me apart is my ability to combine technical expertise with a deep understanding of human behavior and collaboration, honed through my experience as a life coach and ambassador for the Meshwary program, supported by the UN and the Ministry of Youth.
 
-I create solutions that meet technical requirements while prioritizing user experience and overall well-being. My technical repertoire includes JavaScript, HTML5, CSS3 for front-end development, Ruby and PostgreSQL for back-end development, and frameworks/libraries such as React, Redux, Next.js, and Rails. I utilize tools like Git, GitHub, and Test-Driven Development (TDD) to ensure seamless collaboration and code quality.
+I am now focused on advancing my AI/ML skills, with hands-on projects and continuous learning in neural networks, backpropagation, and generative AI. My technical stack includes Python, JavaScript, HTML5, CSS3, Ruby, PostgreSQL, PyTorch, and tools like Git, GitHub, and Test-Driven Development (TDD).
 
-I possess a deep-seated eagerness to embrace new opportunities and am confident in my ability to learn and grow. Let's connect and positively impact the world through web development. Feel free to contact me via email at ebra.alyousefi@gmail.com or explore my portfolio at codeesy.onrender.com.
+I’m eager to collaborate, contribute to impactful projects, and grow as a professional in the AI and software development space. Feel free to explore my work on GitHub or contact me at ebra.alyousefi@gmail.com. Together, we can create innovative solutions and positively shape the future.
 
----
   </p>
 
 
