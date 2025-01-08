@@ -3,12 +3,6 @@
 <h4 align="center">A passionate full-stack developer and ex. Life Coach dedicated to making a positive impact.</h4>
 </div>
 
-<div align="center">
-  <a href="https://cluab.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 -----
   <summary>☎️ contact me</summary>
 <div>
@@ -24,10 +18,7 @@
          alt="ibrahim" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/27.i.b" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+0201101516796" target="blank"><img align="center"
+      <a href="https://wa.me/+17785836439" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
